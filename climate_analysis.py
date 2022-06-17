@@ -28,4 +28,4 @@ for line in climate_data:
 
             print(str(celsius)+", "+str(kelvin))
 
-#todo
+#todo: add rainfaill processing module + getting coffee
