@@ -1,3 +1,4 @@
+"""This is the climate_analysis script changed by Peggy"""
 import sys
 import temp_conversion
 import signal
